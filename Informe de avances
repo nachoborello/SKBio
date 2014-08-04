@@ -1,2 +1,7 @@
 en esta semana hemos creado la base de datos con sus tablas necesarias y la UI (User interface).
 En la semana proxima tenemos planeado comenzar a implementar las funciones de la UI y si nos queda tiempo comenzar a interactuar con la base de datos
+
+
+4/8
+El dia de hoy, se convirtió el entorno gráfico de QT a Python y se logrron avances en las funciones que conectan el entorno con la aplicación.
+SE planea para la siguiente clase, lograr la conexión con la base de datos.
