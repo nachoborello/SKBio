@@ -5,3 +5,8 @@ En la semana proxima tenemos planeado comenzar a implementar las funciones de la
 4/8
 El dia de hoy, se convirtió el entorno gráfico de QT a Python y se logrron avances en las funciones que conectan el entorno con la aplicación.
 SE planea para la siguiente clase, lograr la conexión con la base de datos.
+
+
+11/8
+Hoy se inicio la comunicacion directa entre la parte grafica y la lògica (creacion de importantes funciones).
+Ademas, la interaccion con la base de datos va a mitad del proceso de concluirse.
