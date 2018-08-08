@@ -1,4 +1,4 @@
 SKBio
 =====
 
-vercion mejorada de asado manager
+versión mejorada de asado manager
